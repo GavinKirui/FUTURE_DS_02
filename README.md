@@ -1,4 +1,5 @@
 Summary
+
 Data Preprocessing: Handle missing values, encode categorical features, and scale the features.
 Model Training: We used Random Forest Classifier, but you can also experiment with other models.
 Evaluation: Evaluate using accuracy, confusion matrix, and classification report.
